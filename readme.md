@@ -1,3 +1,4 @@
-## Users / Teams
+## People Management
 
-Manage users / teams
+Create and delete different People accounts. Create and delete different Teams. Add and delete People from Teams. 
+
