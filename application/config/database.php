@@ -70,7 +70,7 @@ return array(
 		'mysql' => array(
 			'driver'   => 'mysql',
 			'host'     => '127.0.0.1',
-			'database' => 'ifttt_laravel',
+			'database' => 'test',
 			'username' => 'root',
 			'password' => 'hp2311x',
 			'charset'  => 'utf8',
